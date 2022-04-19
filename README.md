@@ -1,1 +1,1 @@
-# box-responsive
+# boxResponsive
